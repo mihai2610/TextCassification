@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.csv
+*.txt
+*.h5
+*.model
+*.pickle
+.idea/
+my_log_dir*
